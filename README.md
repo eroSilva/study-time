@@ -1,7 +1,7 @@
-# Study Time - Exercícios
+# Study Time
 
-Aqui vocês vão encontrar todos os exercícios que praticamos no nosso Study time.
+Espaço reservado para concentrarmos tudo que for necessário no nosso grupo de estudos. Fique a vontade para contribuir com essa doc. ☺️
 
-## Lista de exercícios
-
-...
+[📝 Tópicos]()  
+[💪 Exercícios](https://github.com/eroSilva/study-time/tree/main/exercicios/metodos-de-array)  
+[🚀 Proposta de projetos]()
