@@ -1,8 +1,8 @@
 # 📝 Assuntos gerais
 
-| Tema                             | Categoria         |
-| -------------------------------- | ----------------- |
-| Métodos de array                 | `JS`              |
+| Tema                             | Categoria         | Exercícios                                                 |
+| -------------------------------- | ----------------- | ---------------------------------------------------------- |
+| Métodos de array                 | `JS`              | [ver lista](../../exercicios/2022-11-03-metodos-de-array/) |
 | Objetos                          | `JS`              |
 | Spread operator                  | `ESNEXT` `JS`     |
 | Arrays                           | `JS`              |
