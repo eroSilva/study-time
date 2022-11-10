@@ -1,12 +1,12 @@
 ## Tipando funções
 
-**Criar uma função chamada `printNumber`, que recebe um parâmetro `number`, do tipo string, e que retorna a frase `"O dobro do número fornecido é {{dobro do número fornecido}}"`**
+### Criar uma função chamada `printNumber`, que recebe um parâmetro `number`, do tipo string, e que retorna a frase `"O dobro do número fornecido é {{dobro do número fornecido}}"`
 
 --
 
-**Criar uma função chamada `convertObject`, com os objetos conforme o exemplo abaixo e que retorna uma string com os valores concatenados**
+### Criar uma função chamada `convertObject`, com os objetos conforme o exemplo abaixo e que retorna uma string com os valores concatenados
 
-⚠️ Detalhe importante ⚠️  
+⚠️ **Detalhe importante** ⚠️  
 O valor da chave `job` deve estar em CAIXA ALTA.
 
 ```js
