@@ -19,5 +19,5 @@ Todo o dia será gravado e o vídeo deve ser anexado neste documento.
 ## 🌐 Referências
 
 [Documentação oficial](https://www.typescriptlang.org/)  
-[Playground](https://www.typescriptlang.org/play)  
+[Playground TS](https://www.typescriptlang.org/play)  
 [Curso gratuito da Glaucia Lemos](https://www.youtube.com/watch?v=u7K1sdnCv5Y&list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H)  
