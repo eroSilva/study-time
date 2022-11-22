@@ -1,0 +1,14 @@
+{
+  "name": "2022-11-11-typescript",
+  "version": "1.0.0",
+  "description": "Vamos ter uma apresentação teoria bem inicial sobre Typescript, explicando um pouco do que ele é e como funciona.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
