@@ -4,8 +4,8 @@
 | -------------------------------- | ----------------- | ---------------------------------------------------------- |
 | Métodos de array                 | `JS`              | [ver lista](../../exercicios/2022-11-03-metodos-de-array/) |
 | Objetos                          | `JS`              | [ver lista](../../exercicios/2022-11-22-objetos/)          |
-| Spread operator                  | `ESNEXT` `JS`     |
-| Arrays                           | `JS`              |
+| React                            | `React`           |                                                            |
+| React hooks                      | `React`           |
 | Setup de aplicação frontend      | `JS`              |
 | Debug de aplicação               | `JS`              |
 | Destructuring                    | `ESNEXT` `JS`     |
@@ -16,8 +16,6 @@
 | Testes automatizados             | `JS` `React`      |
 | Context API                      | `React`           |
 | React life cicle                 | `React`           |
-| React hooks                      | `React`           |
-| React props                      | `React`           |
 | Acessibilidade                   | `Aceessibilidade` |
 | JSON                             | `JSON`            |
 | Flex Box e Grid                  | `CSS`             |

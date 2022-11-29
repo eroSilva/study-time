@@ -13,3 +13,16 @@ const job = {
   title: "Engineer",
   skills: ["HTML", "CSS", "JS"],
 };
+
+const human = { ...job, ...person };
+
+// console.log(human);
+
+/**
+ * Crie um novo objeto unindo os dois objetos abaixo usando um
+ * método do Object
+ */
+
+const mergeObject = Object.assign(job, person);
+
+console.log(mergeObject);
