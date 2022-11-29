@@ -3,7 +3,7 @@
 | Tema                             | Categoria         | Exercícios                                                 |
 | -------------------------------- | ----------------- | ---------------------------------------------------------- |
 | Métodos de array                 | `JS`              | [ver lista](../../exercicios/2022-11-03-metodos-de-array/) |
-| Objetos                          | `JS`              |
+| Objetos                          | `JS`              | [ver lista](../../exercicios/2022-11-22-objetos/)          |
 | Spread operator                  | `ESNEXT` `JS`     |
 | Arrays                           | `JS`              |
 | Setup de aplicação frontend      | `JS`              |
