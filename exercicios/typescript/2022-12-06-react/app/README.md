@@ -11,10 +11,4 @@ Crie um componente chamado `Card`, dentro de um diretório `./components` que de
 - uma descrição (Opcional)
 - um link (Opcional)
 
-Implemente o card na App.tsx passando as informações acima por props.
-
-## Reaproveitando tipos
-
-Crie um componente `List` que recebe uma prop chamada `cards` (obrigatória). Essa prop vai receber um array com os dados que vamos usar para renderizar os Cards (mesmos dados do exercício anterior). Além disso, o `List` deve receber um `title` (obrigatório).
-
-O tipo da prop `cards` deve ser o mesmo que foi definido no componente Card, porém, devemos conseguir renderizar N componentes.
+Implemente o botão na index do app passando as informações acima por props.
