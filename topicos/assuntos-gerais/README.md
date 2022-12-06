@@ -1,10 +1,10 @@
 # 📝 Assuntos gerais
 
-| Tema                             | Categoria         | Exercícios                                                 |
-| -------------------------------- | ----------------- | ---------------------------------------------------------- |
-| Métodos de array                 | `JS`              | [ver lista](../../exercicios/2022-11-03-metodos-de-array/) |
-| Objetos                          | `JS`              | [ver lista](../../exercicios/2022-11-22-objetos/)          |
-| React                            | `React`           |                                                            |
+| Tema                             | Categoria         | Exercícios                                                                 |
+| -------------------------------- | ----------------- | -------------------------------------------------------------------------- |
+| Métodos de array                 | `JS`              | [ver lista](../../exercicios/assuntos-gerais/2022-11-03-metodos-de-array/) |
+| Objetos                          | `JS`              | [ver lista](../../exercicios/assuntos-gerais/2022-11-22-objetos/)          |
+| React                            | `React`           |
 | React hooks                      | `React`           |
 | Setup de aplicação frontend      | `JS`              |
 | Debug de aplicação               | `JS`              |
