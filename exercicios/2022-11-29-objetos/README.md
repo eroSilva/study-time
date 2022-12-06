@@ -17,7 +17,7 @@ Todo o dia será gravado e o vídeo deve ser anexado neste documento.
 
 ## 🎬 Gravação
 
-[Link da gravação]()
+[Link da gravação](https://drive.google.com/file/d/10sgYXd0CAZQbjVQeYrNzydfY50_TVRJe/view)
 
 ## 🌐 Referências
 
