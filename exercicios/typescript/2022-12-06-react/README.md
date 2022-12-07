@@ -16,5 +16,5 @@ Todo o dia será gravado e o vídeo deve ser anexado neste documento.
 
 ## 🌐 Referências
 
-[Handbook de React na documentação do TS](https://www.typescriptlang.org/docs/handbook/react.html)  
-[React typescript cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup)
+- [Handbook de React na documentação do TS](https://www.typescriptlang.org/docs/handbook/react.html)  
+- [React typescript cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup)
